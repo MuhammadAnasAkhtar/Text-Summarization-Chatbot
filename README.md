@@ -1,4 +1,4 @@
-# Text-Summarization-With-Any-Custom-Text
+# Text-Summarization-Chatbot
 
 # Overview
 This project is a Text Summarization Application that helps users condense large pieces of text into concise summaries. Built using state-of-the-art machine learning models, it provides a simple and user-friendly interface to generate summaries with adjustable lengths.
